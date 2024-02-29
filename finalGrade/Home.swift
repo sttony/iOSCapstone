@@ -8,11 +8,27 @@
 import SwiftUI
 
 struct Home: View {
+    @Binding var isLoggedIn: Bool
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        TabView(){
+            Menu()
+                .tag(0)
+                .tabItem {
+                    Label("Menu", systemImage: "list.dash")
+                }
+            UserProfile(isLoggedIn: $isLoggedIn)
+                .tag(1)
+                .tabItem {
+                    Label("Profile", systemImage: "square.and.pencil")
+                }
+                
+        }
+        .navigationBarBackButtonHidden(true)
+        
+    
     }
 }
 
-#Preview {
-    Home()
-}
+//#Preview {
+//    Home()
+//}

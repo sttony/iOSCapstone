@@ -99,6 +99,7 @@ struct Menu: View {
         VStack{
             LittleLemonLog()
             LittleLemonHero()
+            MenuBreakDown()
             NavigationView {
                 FetchedObjects(
                     predicate:buildPredicate(),
@@ -108,9 +109,6 @@ struct Menu: View {
                     List {
                         ForEach(dishes, id:\.self) { dish in
                             DisplayDish(dish)
-                            //                                    .onTapGesture {
-                            //                                        showAlert.toggle()
-                            //                                    }
                         }
                     }
                     .searchable(text: $searchText,

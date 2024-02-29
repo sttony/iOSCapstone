@@ -20,14 +20,29 @@ struct Onboarding: View {
     @State var invalidForm = true
     var errorMessage = ""
     var body: some View {
-        NavigationView(){
-            VStack{
-                NavigationLink(destination: Home(), isActive: $isLoggedIn) {
-                    EmptyView()
-                }
+        NavigationStack(){
+            VStack(alignment: .leading){
+                LittleLemonLog()
+                LittleLemonHero()
+                              
+                Text("First Name")
                 TextField("First Name", text:$firstName)
+                    .background(
+                        RoundedRectangle(cornerRadius: 2) // Round corners
+                            .stroke(Color.gray, lineWidth: 1) // Add border
+                    )
+                Text("Last Name")
                 TextField("Last Name", text:$lastName)
+                    .background(
+                        RoundedRectangle(cornerRadius: 2) // Round corners
+                            .stroke(Color.gray, lineWidth: 1) // Add border
+                    )
+                Text("Email")
                 TextField("Email", text:$email)
+                    .background(
+                        RoundedRectangle(cornerRadius: 2) // Round corners
+                            .stroke(Color.gray, lineWidth: 1) // Add border
+                    )
                     .keyboardType(.emailAddress)
                     .textContentType(.emailAddress)
                     .disableAutocorrection(true)
@@ -36,6 +51,7 @@ struct Onboarding: View {
                     if firstName.isEmpty || lastName.isEmpty || email.isEmpty {
                         //                    self.errorMessage += "First name can't be empty"
                         invalidForm = true
+                        isLoggedIn = false
                     }
                     else {
                         invalidForm = false
@@ -43,7 +59,7 @@ struct Onboarding: View {
                         UserDefaults.standard.set(lastName, forKey: kLastName)
                         UserDefaults.standard.set(email, forKey: kEmail)
                         UserDefaults.standard.set(true, forKey: kIsLoggedIn)
-                        
+                        isLoggedIn = true
                     }
                 }, label: {
                     Text("Register")
@@ -52,18 +68,21 @@ struct Onboarding: View {
                     .background(Color.blue)
                     .cornerRadius(20)
                     .padding(.top, 10)
-//                    .alert("ERROR", isPresented:$invalidForm, actions: {
-//                        Button("OK", role: .cancel) { }
-//                    }, message: {
-//                        Text(self.errorMessage)
-//                    })
+                //                    .alert("ERROR", isPresented:$invalidForm, actions: {
+                //                        Button("OK", role: .cancel) { }
+                //                    }, message: {
+                //                        Text(self.errorMessage)
+                //                    })
+            }.navigationDestination(isPresented: $isLoggedIn) {
+                Home(isLoggedIn: $isLoggedIn)
+            }.onAppear(){
+                isLoggedIn = UserDefaults.standard.bool(forKey: kIsLoggedIn)
             }
-        }.onAppear(){
-            
+            .padding(10)
         }
     }
 }
-
-#Preview {
-    Onboarding()
-}
+    
+    //#Preview {
+    //    Onboarding()
+    //}

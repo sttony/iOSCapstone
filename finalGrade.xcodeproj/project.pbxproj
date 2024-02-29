@@ -19,6 +19,9 @@
 		9D88BD762B8FE02E002BE68D /* LittleLemonLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D88BD752B8FE02E002BE68D /* LittleLemonLog.swift */; };
 		9D88BD782B8FE0BE002BE68D /* LittleLemonHero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D88BD772B8FE0BE002BE68D /* LittleLemonHero.swift */; };
 		9D88BD7A2B8FE9B6002BE68D /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D88BD792B8FE9B6002BE68D /* Model.swift */; };
+		9D88BD7C2B8FEFA3002BE68D /* FetchedObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D88BD7B2B8FEFA3002BE68D /* FetchedObjects.swift */; };
+		9D88BD7E2B8FFA40002BE68D /* DisplayDish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D88BD7D2B8FFA40002BE68D /* DisplayDish.swift */; };
+		9D88BD802B900689002BE68D /* MenuBreakDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D88BD7F2B900689002BE68D /* MenuBreakDown.swift */; };
 		9D949F772B8FAA4800E2ABA4 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D949F762B8FAA4800E2ABA4 /* Home.swift */; };
 		9D949F792B8FAAA800E2ABA4 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D949F782B8FAAA800E2ABA4 /* Menu.swift */; };
 		9D949F7B2B8FB3F600E2ABA4 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D949F7A2B8FB3F600E2ABA4 /* UserProfile.swift */; };
@@ -57,6 +60,9 @@
 		9D88BD752B8FE02E002BE68D /* LittleLemonLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleLemonLog.swift; sourceTree = "<group>"; };
 		9D88BD772B8FE0BE002BE68D /* LittleLemonHero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleLemonHero.swift; sourceTree = "<group>"; };
 		9D88BD792B8FE9B6002BE68D /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		9D88BD7B2B8FEFA3002BE68D /* FetchedObjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchedObjects.swift; sourceTree = "<group>"; };
+		9D88BD7D2B8FFA40002BE68D /* DisplayDish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayDish.swift; sourceTree = "<group>"; };
+		9D88BD7F2B900689002BE68D /* MenuBreakDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBreakDown.swift; sourceTree = "<group>"; };
 		9D949F762B8FAA4800E2ABA4 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		9D949F782B8FAAA800E2ABA4 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		9D949F7A2B8FB3F600E2ABA4 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
@@ -122,6 +128,9 @@
 				9D88BD752B8FE02E002BE68D /* LittleLemonLog.swift */,
 				9D88BD772B8FE0BE002BE68D /* LittleLemonHero.swift */,
 				9D88BD792B8FE9B6002BE68D /* Model.swift */,
+				9D88BD7B2B8FEFA3002BE68D /* FetchedObjects.swift */,
+				9D88BD7D2B8FFA40002BE68D /* DisplayDish.swift */,
+				9D88BD7F2B900689002BE68D /* MenuBreakDown.swift */,
 			);
 			path = finalGrade;
 			sourceTree = "<group>";
@@ -281,15 +290,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D88BD802B900689002BE68D /* MenuBreakDown.swift in Sources */,
 				9D949F792B8FAAA800E2ABA4 /* Menu.swift in Sources */,
 				9D44A3AE2B8EB24500AECCE8 /* finalGrade.xcdatamodeld in Sources */,
 				9D88BD762B8FE02E002BE68D /* LittleLemonLog.swift in Sources */,
 				9D949F7B2B8FB3F600E2ABA4 /* UserProfile.swift in Sources */,
 				9D44A3AB2B8EB24500AECCE8 /* Persistence.swift in Sources */,
 				9D88BD7A2B8FE9B6002BE68D /* Model.swift in Sources */,
+				9D88BD7E2B8FFA40002BE68D /* DisplayDish.swift in Sources */,
 				9D949F772B8FAA4800E2ABA4 /* Home.swift in Sources */,
 				9D44A3D12B8F016000AECCE8 /* Onboarding.swift in Sources */,
 				9D44A3A22B8EB23D00AECCE8 /* finalGradeApp.swift in Sources */,
+				9D88BD7C2B8FEFA3002BE68D /* FetchedObjects.swift in Sources */,
 				9D88BD782B8FE0BE002BE68D /* LittleLemonHero.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

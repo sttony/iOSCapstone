@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A1566963-7244-4A88-A855-9C3703069525"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B60A1B34-B142-4285-B274-4BB5D5703EE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "getMenuData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B60A1B34-B142-4285-B274-4BB5D5703EE3 - 8df1e56192fc807e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2296">
+               </Location>
+               <Location
+                  uuid = "B60A1B34-B142-4285-B274-4BB5D5703EE3 - 8df1e56192fc807e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2792">
+               </Location>
+               <Location
+                  uuid = "B60A1B34-B142-4285-B274-4BB5D5703EE3 - 8df1e56192fc8361"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACE14D16-A88E-461F-AA96-0C4639846FF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "getMenuData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACE14D16-A88E-461F-AA96-0C4639846FF0 - 8df1e56192fc807e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2296">
+               </Location>
+               <Location
+                  uuid = "ACE14D16-A88E-461F-AA96-0C4639846FF0 - 8df1e56192fc801f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "2704">
+               </Location>
+               <Location
+                  uuid = "ACE14D16-A88E-461F-AA96-0C4639846FF0 - 8df1e56192fc8306"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "2072">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BD6B497-950B-4A5E-AC68-77E9168C605F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getMenuData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BD6B497-950B-4A5E-AC68-77E9168C605F - 8df1e56192fc9db3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "6BD6B497-950B-4A5E-AC68-77E9168C605F - 8df1e56192fc9db3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "6BD6B497-950B-4A5E-AC68-77E9168C605F - 8df1e56192fc9db3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in finalGrade.Menu.getMenuData() -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67D66A2C-7057-4778-BBE6-AD98BCAEFD39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "createDishesFrom(menuItems:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81B9C026-BF45-4EF6-A659-502B05418C72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "createDishesFrom(menuItems:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59C4C049-2F15-4BFE-8187-B478722E29D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getMenuData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E4614D6-0F9C-4F02-A549-B71C1DAD393A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "createDishesFrom(menuItems:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59F6AC21-F670-4F5A-8D68-1CD82A52021A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/DisplayDish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC684CF5-E07A-4B60-AAEE-019694CC54A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FC684CF5-E07A-4B60-AAEE-019694CC54A3 - 6c8a05ea2664e0d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (finalGrade.Dish) -&gt; finalGrade.DisplayDish in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;finalGrade.Dish&gt;, finalGrade.Dish, finalGrade.DisplayDish&gt; in closure #1 (Swift.Array&lt;finalGrade.Dish&gt;) -&gt; &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; finalGrade.FetchedObjects&lt;finalGrade.Dish, &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(finalGrade.LittleLemonLog, finalGrade.LittleLemonHero, SwiftUI.NavigationView&lt;finalGrade.FetchedObjects&lt;finalGrade.Dish, &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0&gt;&gt;)&gt; in finalGrade.Menu.body.getter : some"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "FC684CF5-E07A-4B60-AAEE-019694CC54A3 - 6c8a05ea2664e0f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (finalGrade.Dish) -&gt; finalGrade.DisplayDish in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;finalGrade.Dish&gt;, finalGrade.Dish, finalGrade.DisplayDish&gt; in closure #1 (Swift.Array&lt;finalGrade.Dish&gt;) -&gt; &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; finalGrade.FetchedObjects&lt;finalGrade.Dish, &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(finalGrade.LittleLemonLog, finalGrade.LittleLemonHero, SwiftUI.NavigationView&lt;finalGrade.FetchedObjects&lt;finalGrade.Dish, &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0&gt;&gt;)&gt; in finalGrade.Menu.body.getter : some"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79AC9187-32D8-44DC-AC75-D222A8519D62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "createDishesFrom(menuItems:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79AC9187-32D8-44DC-AC75-D222A8519D62 - 304b899f764648b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static finalGrade.Menu.createDishesFrom(menuItems: Swift.Array&lt;finalGrade.MenuItem&gt;, _: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "79AC9187-32D8-44DC-AC75-D222A8519D62 - 304b899f764648b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static finalGrade.Menu.createDishesFrom(menuItems: Swift.Array&lt;finalGrade.MenuItem&gt;, _: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "79AC9187-32D8-44DC-AC75-D222A8519D62 - 304b899f764648b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static finalGrade.Menu.createDishesFrom(menuItems: Swift.Array&lt;finalGrade.MenuItem&gt;, _: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "840">
+               </Location>
+               <Location
+                  uuid = "79AC9187-32D8-44DC-AC75-D222A8519D62 - 304b899f764648b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static finalGrade.Menu.createDishesFrom(menuItems: Swift.Array&lt;finalGrade.MenuItem&gt;, _: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8048683-CFE1-4340-B2F2-74F0E73485D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "createDishesFrom(menuItems:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8048683-CFE1-4340-B2F2-74F0E73485D1 - 304b899f76464828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static finalGrade.Menu.createDishesFrom(menuItems: Swift.Array&lt;finalGrade.MenuItem&gt;, _: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+               <Location
+                  uuid = "F8048683-CFE1-4340-B2F2-74F0E73485D1 - 304b899f76464828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static finalGrade.Menu.createDishesFrom(menuItems: Swift.Array&lt;finalGrade.MenuItem&gt;, _: __C.NSManagedObjectContext) -&gt; ()"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53D8B7C8-4010-481A-959B-1C106C2EA149"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "exists(name:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3952C3C9-C381-4C32-81B0-C5E4B2FB76D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/UserProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3952C3C9-C381-4C32-81B0-C5E4B2FB76D4 - df6c8b6b6c5731c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(finalGrade.LittleLemonLog, finalGrade.LittleLemonHero, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text, SwiftUI.Text, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in finalGrade.UserProfile.body.getter : some"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "3952C3C9-C381-4C32-81B0-C5E4B2FB76D4 - 439dd3876386101d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(finalGrade.LittleLemonLog, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text, SwiftUI.Text, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in finalGrade.UserProfile.body.getter : some"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4551CCFD-5014-4BC0-B630-8DB4EB9022E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/UserProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4551CCFD-5014-4BC0-B630-8DB4EB9022E0 - d146f9941d373744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(finalGrade.LittleLemonLog, finalGrade.LittleLemonHero, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text, SwiftUI.Text, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in finalGrade.UserProfile.body.getter : some"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1840">
+               </Location>
+               <Location
+                  uuid = "4551CCFD-5014-4BC0-B630-8DB4EB9022E0 - df6c8b6b6c573183"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(finalGrade.LittleLemonLog, finalGrade.LittleLemonHero, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text, SwiftUI.Text, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in finalGrade.UserProfile.body.getter : some"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "4551CCFD-5014-4BC0-B630-8DB4EB9022E0 - 439dd3876386105f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(finalGrade.LittleLemonLog, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text, SwiftUI.Text, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in finalGrade.UserProfile.body.getter : some"
+                  moduleName = "finalGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/litong/Desktop/Test1/finalGrade/finalGrade/UserProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A9272D0-F6BF-4391-80A1-9C95630697A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "finalGrade/UserProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
